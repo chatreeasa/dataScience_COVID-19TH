@@ -1,5 +1,3 @@
-# dataScience_COVID-19TH
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -49,24 +47,21 @@
   <ol>
     <li><strong>Data Preparation:</strong> The dataset is loaded from the provided URL using Pandas.</li>
     <li><strong>Data Cleaning:</strong> Any missing values are dropped from the dataset.</li>
-    <li><strong>Visualization:</strong> The script presents various visualizations to analyze the COVID-19 cases, including:</li>
+    <li><strong>Visualization:</strong> The script presents various visualizations to analyze the COVID-19 cases:</li>
   </ol>
   
   <h3>Relation between province_of_onset and sex</h3>
-  <pre><code>... Python code for plotting the relation between province_of_onset and sex ...</code></pre>
+  <p>This visualization showcases the distribution of cases based on the province of onset and sex. It helps to identify any patterns or differences in COVID-19 cases between different provinces and genders.</p>
   
   <h3>Relation between province_of_onset and Notified date</h3>
-  <pre><code>... Python code for plotting the relation between province_of_onset and Notified date ...</code></pre>
+  <p>This visualization highlights the cases in each province over time. By plotting the cases based on the province of onset and the notified date, it provides insights into the spread and timeline of COVID-19 infections in different regions.</p>
   
   <h3>Relation between province_of_onset and age</h3>
-  <pre><code>... Python code for plotting the relation between province_of_onset and age ...</code></pre>
+  <p>This visualization displays the distribution of cases based on the province of onset and age. It helps to identify any age-related patterns or variations in COVID-19 cases across different provinces.</p>
   
   <ol start="4">
-    <li><strong>Additional Analysis:</strong> The script also includes additional visualizations, such as:</li>
+    <li><strong>Additional Analysis:</strong> The script also includes additional visualizations:</li>
   </ol>
   
   <h3>Daily Inflection of Cases over Time</h3>
-  <pre><code>... Python code for plotting the daily inflection of cases over time ...</code></pre>
-  
-  <h3>Sex Distribution over Time</h3>
-  <pre><code>... Python code for plotting the sex distribution over time ...</code></pre
+  <p>This visualization shows the daily inflection of COVID-19 cases over time. It helps to identify any trends, spikes, or fluctuations in
